@@ -12,7 +12,7 @@
   A specialized prompting framework designed to reduce LLM operational overhead by 50-75% through aggressive verbosity pruning.
 </p>
 
----
+---   
 
 ## Overview
 **Caveman Claude** is a high-performance token optimization layer for the **Claude** ecosystem. It is designed for developers and power users who need to maximize context window utility and reduce inference costs without sacrificing logic or task execution.

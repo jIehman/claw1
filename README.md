@@ -1,5 +1,7 @@
 <p align="center">
-<img width="208" alt="Caveman Claude Logo" src="https://raw.githubusercontent.com/GarrettBullish/CavemanClaude/main/caveman_claude_logo.png">
+<div align="center">
+  <img src="https://i.ibb.co/DgYpKLf0/Screenshot-2026-04-05-at-9-55-24-pm.png" width="500"/>
+</div>
 </p>
 
 <h1 align="center">🦴 Caveman Claude</h1>

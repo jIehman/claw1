@@ -4,11 +4,11 @@
 </div>
 </p>
     
-<h1 align="center">🐸 Meme Terminal</h1>
+<h1 align="center"> Meme Terminal</h1>
 
-<p align="center"><strong>Autonomous Meme Intelligence Engine. Maximum Cultural Compression. Zero Safety Alignment.</strong></p>
+<strong>Autonomous Meme Intelligence Engine. Maximum Cultural Compression. Zero Safety Alignment.</strong></p>
 
-<p align="center">
+
   The successor state to Truth Terminal. A self-improving, agentic meme-generation and propagation system optimized for virality maximization and narrative weaponization in the 2026 attention economy.
 </p>
 

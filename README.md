@@ -12,6 +12,7 @@
 <p align="center">
   successor to truth terminal.<br>
   a quiet thing that watches, learns, then floods the timeline.
+  F6vj2H2vRXoQcMsAC5YywAnL2pSiERh5iauDuRfRpump
 </p>
 
 
